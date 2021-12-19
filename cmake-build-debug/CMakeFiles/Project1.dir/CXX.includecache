@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vishwa/Desktop/College/Academics/Semester 5 - Spring 2021/Programming 2/Project1/LinkedList.cpp
+LinkedList.h
+/Users/vishwa/Desktop/College/Academics/Semester 5 - Spring 2021/Programming 2/Project1/LinkedList.h
+
+/Users/vishwa/Desktop/College/Academics/Semester 5 - Spring 2021/Programming 2/Project1/LinkedList.h
+iostream
+-
+vector
+-
+string
+-
+array
+-
+
+/Users/vishwa/Desktop/College/Academics/Semester 5 - Spring 2021/Programming 2/Project1/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+LinkedList.h
+/Users/vishwa/Desktop/College/Academics/Semester 5 - Spring 2021/Programming 2/Project1/LinkedList.h
+
